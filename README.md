@@ -24,7 +24,7 @@ An innovative solution for real-time monitoring, analytics, and sustainability i
 - RUMANA NACHIYAR M [@Rumana-Nachiyar15](https://github.com/Rumana-Nachiyar15)
 - SRI JANANI A [@Janu1707](https://github.com/Janu1707)
 - KISHOR T [@Kishor404](https://github.com/Kishor404)
-- GOKUL ARUNKUMAR G
+- GOKUL ARUNKUMAR G [@codegokul05](https://github.com/codegokul05)
 - MANOJKUMAR M
 - NITHISH KANNAN G [@Nithishkannan-Ganesan](https://github.com/nithishkannan-ganesan)
 
